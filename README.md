@@ -22,3 +22,13 @@ Each project folder includes:
 - OpenPLC Editor & Runtime
 - Factory I/O (Trial)
 - GitHub for version control & documentation
+
+## Modbus TCP Configuration
+- Host IP: 192.168.1.91
+- Port: 502
+- Slave ID: 1
+- Write Digital: Inputs
+- Read Digital: Coils
+- Digital Inputs: 7 (Offset 0)
+- Digital Outputs: 12 (Offset 0)
+- Screenshot: ![Modbus Setup](../images/modbus_config.png)
